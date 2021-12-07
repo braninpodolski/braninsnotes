@@ -1,18 +1,18 @@
 # Pages
-(Chapter 3.1 - Understanding Entrepreneurial Trends)[Chapter 3.1 - Understanding Entrepreneurial Trends.md]
-(Chapter 3.2 Starting vs Buying a Business)[Chapter 3.2 Starting vs Buying a Business.md]
-(Constants in Derivatives)[Constants in Derivatives.md]
-(Europe Notes)[Europe Notes.md]
-(Implicit vs Explicit Differentiation)[Implicit vs Explicit Differentiation.md]
-(Norway, Sweden & Finland)[Norway, Sweden & Finland.md]
-(Power Rule)[Power Rule.md]
-(Russia)[Russia.md]
-(_config.)[_config.yml]
-(church)[church.md]
-(essay.)[essay.log]
-(essay.)[essay.tex]
-(github.)[github.css]
-(index)[index.md]
-(pandoc.)[pandoc.css]
-(pandoc.)[pandoc.rtf]
-(test)[test.md]
+[Chapter 3.1 - Understanding Entrepreneurial Trends](Chapter 3.1 - Understanding Entrepreneurial Trends.md)
+[Chapter 3.2 Starting vs Buying a Business](Chapter 3.2 Starting vs Buying a Business.md)
+[Constants in Derivatives](Constants in Derivatives.md)
+[Europe Notes](Europe Notes.md)
+[Implicit vs Explicit Differentiation](Implicit vs Explicit Differentiation.md)
+[Norway, Sweden & Finland](Norway, Sweden & Finland.md)
+[Power Rule](Power Rule.md)
+[Russia](Russia.md)
+[_config.](_config.yml)
+[church](church.md)
+[essay.](essay.log)
+[essay.](essay.tex)
+[github.](github.css)
+[index](index.md)
+[pandoc.](pandoc.css)
+[pandoc.](pandoc.rtf)
+[test](test.md)
