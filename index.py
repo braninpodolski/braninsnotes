@@ -8,7 +8,7 @@ final_output = ""
 for file in files:
     split_file = os.path.splitext(file)
     if split_file[1] == ".md":
-        file_link = f'[{split_file[0]}]({file})\n'
+        file_link = f'[{split_file[0]}]({file})\n\n'
         final_output += file_link
 
 # Write Output to File
