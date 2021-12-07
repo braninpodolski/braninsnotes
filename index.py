@@ -1,6 +1,6 @@
 import os
 
-files = os.listdir("/Volumes/GoogleDrive/My Drive/Notes")
+files = os.listdir("/Volumes/GoogleDrive/My Drive/Notes/pages")
 
 final_output = ""
 
