@@ -24,7 +24,7 @@ Business Broker
 : A broker responsible for aiding in the sale and purchase of businesses
 
 ## Advantages and Disadvantages
-|                             | **Advantages**                                                                                                      | **Disadvantages**                                                                                                                                      |
+|    a                        | **Advantages**                                                                                                      | **Disadvantages**                                                                                                                                      |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Family Business             | 1. Family members may be more willing to help out <br><br> 2. Can pass down to children to grow generational wealth | 1. Conflicts at work can continue into the home <br><br>2. A more laid back setting can lead to less productivity                                      |
 | Franchise Business          | 1. Training assistance/support <br><br> 2. Immediate brand recognition                                              | 1. Paying fees <br><br> 2. Paying ongoing royalties                                                                                                    |
