@@ -1,37 +1,14 @@
-# Pages
-
-[Chapter 3.1 - Understanding Entrepreneurial Trends](Chapter 3.1 - Understanding Entrepreneurial Trends.md)
-
-[Chapter 3.2 Starting vs Buying a Business](Chapter 3.2 Starting vs Buying a Business.md)
-
-[Constants in Derivatives](Constants in Derivatives.md)
-
-[Europe Notes](Europe Notes.md)
-
-[Implicit vs Explicit Differentiation](Implicit vs Explicit Differentiation.md)
-
-[Norway, Sweden & Finland](Norway, Sweden & Finland.md)
-
 [Power Rule](Power Rule.md)
-
-[Russia](Russia.md)
-
-[_config.](_config.yml)
-
-[church](church.md)
-
-[essay.](essay.log)
-
-[essay.](essay.tex)
-
-[github.](github.css)
-
-[index](index.md)
-
-[pandoc.](pandoc.css)
-
-[pandoc.](pandoc.rtf)
-
+[Constants in Derivatives](Constants in Derivatives.md)
+[Chapter 3.2 Starting vs Buying a Business](Chapter 3.2 Starting vs Buying a Business.md)
+[Norway, Sweden & Finland](Norway, Sweden & Finland.md)
+[Europe Notes](Europe Notes.md)
+[Implicit vs Explicit Differentiation](Implicit vs Explicit Differentiation.md)
+[Chapter 3.1 - Understanding Entrepreneurial Trends](Chapter 3.1 - Understanding Entrepreneurial Trends.md)
 [test](test.md)
-
-[test_document](test_document.md)
+[church](church.md)
+[Russia](Russia.md)
+[index](index.md)
+[test_doc](test_doc.md)
+[python_test](python_test.md)
+[final_test](final_test.md)
